@@ -1,7 +1,7 @@
 # api_test.py
 import requests
 
-url = \ "https://api.genius.com/search?q=Kendrick%20Lamar"
+url = "https://api.genius.com/search?q=Kendrick%20Lamar"
 
 
 my_headers = {
